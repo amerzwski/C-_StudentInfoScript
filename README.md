@@ -4,7 +4,7 @@ A small C++ program that displays formatted array data and performs basic data v
 
 ## Instructions:
 
-Open the .sln file in the root folder in a code editor and run.
+Download [C867_Project.sln](C867_Project.sln), execute file and run in code editor (e.g. Visual Studio)
 
 ## Features:
 
@@ -17,3 +17,6 @@ Open the .sln file in the root folder in a code editor and run.
 * Display filtered results for specific degree program 
 
 * Remove student entity and print verification of removal
+
+## Example
+
