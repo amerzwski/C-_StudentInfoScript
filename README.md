@@ -1,19 +1,19 @@
-# C++_StudentInfoScript
+# Student Info Script
 
 A small C++ program that displays formatted array data and performs basic data validation and deletions.
 
-## **Instructions:**
+## Instructions:
 
 Open the .sln file in the root folder in a code editor and run.
 
-## **Features:**
+## Features:
 
-*Display full list of imaginary students, # days spent in each of 3 courses/classes, and enumerated degree program
+* Display full list of students, # days spent in each of 3 courses/classes, and associated degree program
 
-*Validate entered email address and print invalid entries
+* Validate entered email address and print invalid entries
 
-*Calculate and display average # days per course/class for each student
+* Calculate and display average # days per course/class for each student
 
-*Display filtered results for specific degree program 
+* Display filtered results for specific degree program 
 
-*Remove student entity and print verification of removal
+* Remove student entity and print verification of removal
