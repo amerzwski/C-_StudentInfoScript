@@ -4,7 +4,7 @@ A small C++ program that displays formatted array data and performs basic data v
 
 ## Instructions:
 
-Download [C867_Project.sln](C867_Project.sln), execute file and run in code editor (e.g. Visual Studio)
+Copy [C867_Project.sln](C867_Project.sln) into text file and save with .sln extension, execute file and run in code editor (e.g. Visual Studio)
 
 ## Features:
 
@@ -20,3 +20,4 @@ Download [C867_Project.sln](C867_Project.sln), execute file and run in code edit
 
 ## Example
 
+<img src="screenshots/sample_output.png" width="900" height="450" />
