@@ -2,10 +2,6 @@
 
 A small C++ program that displays formatted array data and performs basic data validation and deletions.
 
-## Instructions:
-
-Copy [C867_Project.sln](C867_Project.sln) into text file and save with .sln extension, execute file and run in code editor (e.g. Visual Studio)
-
 ## Features:
 
 * Display full list of students, # days spent in each of 3 courses/classes, and associated degree program
